@@ -1,1 +1,2 @@
 # Clicking-on-Ad-Prediction
+The goal of this computer assignment is to design a simple statistical model in order to predict missing values of the target column; this is done by using samples that have a pre-determined target value. Some characteristics of users such as Age, Area Income, and Gender are given in this computer assignment, The input of our model will be one of these characteristics and the output is the target column which determines whether the user has clicked on the Ad or not.
